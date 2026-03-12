@@ -12,10 +12,15 @@ As such, many of the questions are geared towards information that would be pert
 	
 ### What drives you nuts?
 * When someone assumes I'm going to do something without an explicit ask. I can't read minds, if you need something please just tell me!
-		
+* When I'm asked to work on too many things concurrently. It's too easy to lose focus and waste time on context switching.
+
 ### What are some things that people might misunderstand about you that you should clarify?
 * I tend to be quieter in group settings, it's something I work on but still have a hard time speaking up.
 * I generally defer strong opinions when thinking on my feet; I prefer to research a topic before making decisions. 
+
+### How do you treat yourself?
+* Soda and chocolate are my favorites!
+* I don't drink coffee or tea.
 
 ## About my colleagues
 
@@ -23,6 +28,7 @@ As such, many of the questions are geared towards information that would be pert
 * Assumes good intentions, always.
 * Asks questions, dumb or not, and learns from them!
 * Is patient. We all learn in different ways at different speeds, I appreciate someone who can take time to help someone understand something new.
+* Be kind. We're all doing our best here :)
 
 ### What do you wish colleagues didn’t do?
 * Be rigid or unwilling to compromise.
@@ -49,3 +55,17 @@ As such, many of the questions are geared towards information that would be pert
 
 ### How do you like to get feedback?
 * Any feedback is great, however it gets to me, as long as it includes specifics. Negative feedback should include preferred alternatives or how it made someone feel.
+
+## About my manager
+
+### What do you need from your manager?
+* Prioritization, clarity, escalation, feedback, 
+
+### How will I know when you’re grumpy?
+* I’ll let you know
+
+### How can I help you when you’re grumpy?
+* Help me prioritize or drop things. Generally I just need to take a step back and regain focus, and either through rubber ducking or actual help, talking about it is helpful.
+
+### What makes 1:1s the most valuable for you?
+* Course corrections, feedback, and prioritization. It's good to know what's 
